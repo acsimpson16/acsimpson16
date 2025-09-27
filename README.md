@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acsimpson16
-- 👀 I’m interested in fitting data models
+- 👀 I am akeen data scientist 
 - 🌱 I’m currently learning machine learning in Python
 
 <!---
